@@ -10,7 +10,7 @@
 
 Este projeto foi construído do zero com foco absoluto em desempenho, acessibilidade e na jornada do usuário. O design visa atrair a atenção de Tech Recruiters, destacando o domínio não apenas no Backend, mas no entendimento integral do ciclo de desenvolvimento de software.
 
-**🌐 Live Demo:** [Inserir Link do GitHub Pages aqui]
+**🌐 Live Demo:** https://wevertonwe.github.io/Portfolio/
 
 ## 🛠️ Descritivo Técnico
 

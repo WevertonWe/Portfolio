@@ -1,0 +1,4 @@
+# Cache e temporários
+.vscode/
+.DS_Store
+Thumbs.db
